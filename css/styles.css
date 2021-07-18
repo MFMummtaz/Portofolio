@@ -1,0 +1,116 @@
+  body {
+    color: #40514E;
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+  }
+
+  h1 {
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    font-family: 'Kanit', sans-serif;
+    font-size: 437.5%;
+  }
+
+  h2 {
+    color: #5F939A;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 187.5%;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+
+  h3 {
+    color: #A1CAE2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120%;
+  }
+
+  hr {
+    border-color: #EAF6F6;
+    border-style: dotted;
+    border-bottom: none;
+    margin: 100px auto;
+    width: 4%;
+    border-width: 10px;
+  }
+
+  p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    line-height: 2;
+  }
+
+  a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #EAF6F6;
+  }
+
+  .top {
+    background-color: #DEEDF0;
+    position: relative;
+    padding-top: 100px;
+  }
+
+  .middle {
+    margin: 100px 0 1px;
+  }
+
+  .bottom {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  }
+
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+
+  .fotoR {
+    width: 25%;
+    float: left;
+    margin-right: 3%;
+  }
+
+  .fotooffice {
+    width: 20%;
+    float: right;
+    margin-left: 3%;
+    margin-top: 7%;
+  }
+
+  .pro {
+    text-decoration: underline;
+  }
+
+  .orang {
+    height: 350px;
+    position: relative;
+    top: 20px;
+  }
+
+  .kenal {
+    text-align: center;
+    width: 30%;
+    margin: auto;
+  }
+
+  .contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+
+  .copyright {
+    color: #EAF6F6;
+    font-size: 1em;
+    padding: 20px 0;
+    text-align: center;
+  }
